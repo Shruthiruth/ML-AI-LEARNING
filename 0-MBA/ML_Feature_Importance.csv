@@ -1,22 +1,22 @@
 Question,Importance_Mean,Importance_SD
-11. How would you describe the effectiveness of the current demand forecasting process?,0.06384615384615383,0.06508774603730631
-24. What is the current level of management support for AI adoption?,0.05703296703296703,0.051164438652592945
-15. Through which source have you mainly learned about AI applications?,0.04252747252747252,0.0612059304478749
-20. What is the current level of technological infrastructure available for AI / analytics?,0.041648351648351636,0.06520012757404715
-6. Does your organization currently use demand forecasting for production planning?,0.0356043956043956,0.0520956200537895
-25. What level of investment would your organization be willing to make for AI-based demand forecasting?,0.03153846153846153,0.03523259268758734
-21. How would you describe the availability of historical data required for AI-based demand forecasting?,0.030989010989010975,0.05468427123578863
-23. How prepared is your organization to adopt AI-based demand forecasting?,0.02857142857142856,0.04545686450484948
-10. Which factor has the greatest influence on demand variation in your organization?,0.026813186813186802,0.04327319884124992
-12. How would you describe your awareness of Artificial Intelligence applications in business?,0.023186813186813184,0.03387129792448172
-7. What is the primary method used for demand forecasting in your organization?,0.02318681318681316,0.08622383062423059
-22. How would you describe the availability of employees with AI / analytics skills?,0.021428571428571422,0.04077056364634976
-17. In which business area is AI / analytics currently being used or planned to be used?,0.020549450549450544,0.022191953314959496
-5. What is the approximate size of your organization?,0.019780219780219776,0.05100872345367395
-14. Which AI / analytics application are you most familiar with?,0.014505494505494498,0.024748462875181086
-2. What is your current designation?,0.011208791208791202,0.030790318519418252
-3. How many years of experience do you have in the textile industry?,0.009999999999999997,0.017669769276554812
-9. Which information is primarily used for demand forecasting?,0.007472527472527475,0.014394136323095738
-13. How familiar are you with the use of AI / Machine Learning for demand forecasting?,0.0028571428571428515,0.006388765649999399
-8. How frequently is demand forecasting performed?,-0.009230769230769239,0.020640627484613462
-4. What is the primary activity of your organization?,-0.010439560439560463,0.03990993362051624
+17. In which business area is AI / analytics currently being used or planned to be used?,0.03733333333333332,0.05046450898073482
+12. How would you describe your awareness of Artificial Intelligence applications in business?,0.027999999999999997,0.06739601043253392
+15. Through which source have you mainly learned about AI applications?,0.02799999999999999,0.04975495508545409
+24. What is the current level of management support for AI adoption?,0.021333333333333333,0.019663841605003497
+20. What is the current level of technological infrastructure available for AI / analytics?,0.019999999999999997,0.039999999999999994
+11. How would you describe the effectiveness of the current demand forecasting process?,0.014666666666666656,0.08411632157646667
+25. What level of investment would your organization be willing to make for AI-based demand forecasting?,0.009333333333333332,0.037297601948531635
+14. Which AI / analytics application are you most familiar with?,0.007999999999999997,0.0506403440395545
+8. How frequently is demand forecasting performed?,0.006666666666666665,0.026246692913372695
+6. Does your organization currently use demand forecasting for production planning?,0.003999999999999998,0.052408650685422775
+21. How would you describe the availability of historical data required for AI-based demand forecasting?,0.002666666666666667,0.023851391759997752
+7. What is the primary method used for demand forecasting in your organization?,0.0026666666666666644,0.06905714220041897
+22. How would you describe the availability of employees with AI / analytics skills?,0.0013333333333333335,0.043817804600413277
+2. What is your current designation?,-0.0013333333333333329,0.01659986613065164
+23. How prepared is your organization to adopt AI-based demand forecasting?,-0.0026666666666666657,0.035465162875387694
+9. Which information is primarily used for demand forecasting?,-0.005333333333333333,0.02467567403109566
+10. Which factor has the greatest influence on demand variation in your organization?,-0.006666666666666665,0.028284271247461898
+3. How many years of experience do you have in the textile industry?,-0.00933333333333333,0.02732520204255892
+4. What is the primary activity of your organization?,-0.014666666666666665,0.015202339001321837
+5. What is the approximate size of your organization?,-0.014666666666666666,0.05723246941689267
+13. How familiar are you with the use of AI / Machine Learning for demand forecasting?,-0.02533333333333333,0.02764858847110362
