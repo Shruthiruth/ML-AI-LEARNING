@@ -1,3 +1,3 @@
 Model,Mean CV Accuracy,Std. Deviation
-Multinomial Logistic Regression,0.5,0.08582691951545775
-Random Forest,0.5736263736263736,0.02447368950694517
+Multinomial Logistic Regression,0.4533333333333333,0.08844332774281066
+Random Forest,0.5599999999999999,0.10832051206181278
